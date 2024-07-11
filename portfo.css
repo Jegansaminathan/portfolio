@@ -227,7 +227,7 @@ ul li a{
 }
 .fullback{
     width: 100%;
-    height: 110vh;
+    height: 100vh;
     background-image: url("./images/pexels-artempodrez-6279116.jpg");
     background-size: cover;
     background-position: 100%;
@@ -239,13 +239,11 @@ ul li a{
    
 }
 .skbd{ 
-    width: 54%;
+    width: 52%;
     display: flex;
-    padding-top: 70px;
+    padding-top: 3%;
     flex-direction: column;
-    padding-left: 340px;
-    margin-bottom: 70px;
-    border-radius: 10px;
+    padding-left: 24%;
     /* background-color: rgba(0, 255, 247, 0.5); this is for opacity:  */
 }
 
